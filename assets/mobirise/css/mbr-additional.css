@@ -2239,26 +2239,24 @@ body {
 .cid-sbVyzT8zzw .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-sc71G0xOzz {
+.cid-sc75RK6VDF {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
-.cid-sc71G0xOzz .image-block {
+.cid-sc75RK6VDF .image-block {
   margin: auto;
-  width: 100% !important;
 }
-.cid-sc71G0xOzz .mbr-figure {
-  margin: 0 auto;
-}
-.cid-sc71G0xOzz figcaption {
+.cid-sc75RK6VDF figcaption {
   position: relative;
 }
-.cid-sc71G0xOzz figcaption div {
+.cid-sc75RK6VDF figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-sc71G0xOzz .image-block {
+  .cid-sc75RK6VDF .image-block {
     width: 100% !important;
   }
 }
