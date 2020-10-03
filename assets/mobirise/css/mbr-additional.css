@@ -2658,7 +2658,7 @@ body {
 .cid-scmzQvhAtL {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #f3f4f6;
+  background-color: #ffffff;
 }
 .cid-scmzQvhAtL .testimonial-text {
   font-style: italic;
@@ -2679,4 +2679,7 @@ body {
     width: auto;
     margin: auto;
   }
+}
+.cid-scmzQvhAtL .testimonial-text SPAN {
+  color: #232323;
 }
